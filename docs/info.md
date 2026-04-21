@@ -16,8 +16,8 @@ AND, NAND and OR gates are connected to input a and b.
 ## How to test
 
 Set the inputs and check the outputs match with the expected results:
-| input IN0 IN1 IN2 |output OUT0 | output OUT4 |
-|-------------------|------------|-------------|
+| input IN0 IN1 IN2 | output OUT0 | output OUT4 |
+|-------------------|-------------|-------------|
 |0 0 0	            |1           |0            |
 |0 0 1	            |1           |0            |
 |0 1 0	            |1           |0            |
